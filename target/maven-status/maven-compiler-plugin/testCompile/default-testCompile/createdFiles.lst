@@ -1,0 +1,3 @@
+br\com\fiap\auditrelatorio\lambda\ConsultaRelatorioEntradaTest.class
+br\com\fiap\auditrelatorio\service\RelatorioServiceTest.class
+br\com\fiap\auditrelatorio\repository\MemoriaRelatorioStore.class

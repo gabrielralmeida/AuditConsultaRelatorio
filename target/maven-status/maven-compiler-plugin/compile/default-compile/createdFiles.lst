@@ -1,0 +1,11 @@
+br\com\fiap\auditrelatorio\repository\RelatorioPanacheStore.class
+br\com\fiap\auditrelatorio\repository\RelatorioStore.class
+br\com\fiap\auditrelatorio\lambda\ConsultaRelatorioEntrada.class
+br\com\fiap\auditrelatorio\model\Relatorio.class
+br\com\fiap\auditrelatorio\dto\ConsultaRelatorioResponse.class
+br\com\fiap\auditrelatorio\model\RelatorioId.class
+br\com\fiap\auditrelatorio\dto\ConsultaRelatorioRequest.class
+br\com\fiap\auditrelatorio\dto\ConsultaRelatorioResponse$RelatorioItem.class
+br\com\fiap\auditrelatorio\service\RelatorioService.class
+br\com\fiap\auditrelatorio\lambda\AuditConsultaRelatorioLambda.class
+br\com\fiap\auditrelatorio\repository\RelatorioRepository.class
